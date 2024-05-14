@@ -1,3 +1,3 @@
-cd ./conta-banco/bin/
+cd ./bin/
 java ContaTerminal
 @pause
